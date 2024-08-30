@@ -59,5 +59,3 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliaselhaddad&show_icons=true&locale=en" alt="eliaselhaddad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliaselhaddad&" alt="eliaselhaddad" /></p>
