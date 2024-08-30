@@ -58,7 +58,6 @@
   </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliaselhaddad&show_icons=true&locale=en" alt="eliaselhaddad" /></p>
 
 ## My Certifications and Diplomas
 
