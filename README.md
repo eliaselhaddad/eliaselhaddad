@@ -60,8 +60,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliaselhaddad&show_icons=true&locale=en" alt="eliaselhaddad" /></p>
 
-## Files in this Repository
+## My Certifications and Diplomas
 
+- [Exam Diploma - Elias El Haddad](examensbevis-elias-el-haddad-185071-4494.pdf)
 - [Azure Databricks Certificate](Azure%20Databricks%20Certificate.pdf)
-- [Examensbevis - Elias El Haddad](examensbevis-elias-el-haddad-185071-4494.pdf)
-
