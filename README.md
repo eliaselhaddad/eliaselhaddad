@@ -57,3 +57,5 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="background-color:white; padding:10px;"/> 
   </a> 
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliaselhaddad&show_icons=true&locale=en" alt="eliaselhaddad" /></p>
