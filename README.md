@@ -9,7 +9,7 @@
 
 - 💬 **Open to questions about AI, ML, and programming**
 
-- 📫 How to reach me **eliaselhaddad@icloud.com**
+- 📫 How to reach me **eliaselhaddad.w@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
