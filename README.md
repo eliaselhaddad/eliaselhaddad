@@ -1,65 +1,33 @@
-<h1 align="center">Hi 👋, I'm Elias</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliaselhaddad&label=Profile%20views&color=0e75b6&style=flat" alt="eliaselhaddad" /> </p>
+# Elias El Haddad
 
-- 🎓 **AI & ML Enthusiast and recent graduate**
+**Embedded Systems Engineering student and Data & AI Developer** focused on turning data into practical, reliable solutions.
 
-- 💻 **Passionate about programming and building intelligent solutions**
+I am majoring in **Applikationsingenjör / Embedded Systems** and work across embedded/IoT development, data engineering, and machine learning. My interests include building connected systems, data pipelines, and intelligent applications that are clear, maintainable, and useful.
 
-- 📚 **Continuously exploring the world of Data Science**
+[LinkedIn](https://www.linkedin.com/in/elias-el-haddad-041738176) · [Email](mailto:eliaselhaddad.w@gmail.com)
 
-- 💬 **Open to questions about AI, ML, and programming**
+## Selected projects
 
-- 📫 How to reach me **eliaselhaddad.w@gmail.com**
+- [Databricks SQL & PySpark](https://github.com/eliaselhaddad/databricks-sql-pyspark) — data processing and analytics work with Databricks, SQL, and PySpark.
+- [Fall Detection Model](https://github.com/eliaselhaddad/Fall-Detection-Model-Internship2) — a machine-learning project for fall detection.
+- [Bike Station Monitor](https://github.com/eliaselhaddad/Bike-Station-Monitor-Internship1) — monitoring and data-oriented application work.
+- [ESP8266 Logger](https://github.com/eliaselhaddad/esp8266-logger) — an embedded/IoT logging project.
+- [Thesis](https://github.com/eliaselhaddad/Thesis) — academic research and analysis.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/elias-el-haddad-041738176" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Elias El Haddad LinkedIn" height="30" width="40" />
-</a>
-</p>
+## Technical focus
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="background-color:white; padding:10px;"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="background-color:white; padding:10px;"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="background-color:white; padding:10px;"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="background-color:white; padding:10px;"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="background-color:white; padding:10px;"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="background-color:white; padding:10px;"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="background-color:white; padding:10px;"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="background-color:white; padding:10px;"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="background-color:white; padding:10px;"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="background-color:white; padding:10px;"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="background-color:white; padding:10px;"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="background-color:white; padding:10px;"/> 
-  </a> 
-</p>
+| Area | Technologies |
+| --- | --- |
+| Data & machine learning | Python, SQL, PySpark, Pandas, scikit-learn, TensorFlow, Databricks |
+| Embedded & IoT | ESP8266, embedded logging, connected systems |
+| Software & delivery | Git, Docker, Flask, Linux, Bash |
+| Cloud & data platforms | AWS, MongoDB |
 
+## Certifications
 
-## My Certifications and Diplomas
-
-- [Exam Diploma - Elias El Haddad](examensbevis-elias-el-haddad-185071-4494.pdf)
 - [Azure Databricks Certificate](Azure%20Databricks%20Certificate.pdf)
+- [Exam Diploma — Elias El Haddad](examensbevis-elias-el-haddad-185071-4494.pdf)
+
+## Let’s connect
+
+I’m open to opportunities and collaborations involving data engineering, machine learning, and intelligent systems. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/elias-el-haddad-041738176) or by [email](mailto:eliaselhaddad.w@gmail.com).
