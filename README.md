@@ -23,10 +23,10 @@ I am majoring in **Applikationsingenjör / Embedded Systems** and work across em
 | Software & delivery | Git, Docker, Flask, Linux, Bash |
 | Cloud & data platforms | AWS, MongoDB |
 
-## Certifications
+## Education & certifications
 
 - [Azure Databricks Certificate](Azure%20Databricks%20Certificate.pdf)
-- [Exam Diploma — Elias El Haddad](examensbevis-elias-el-haddad-185071-4494.pdf)
+- [Degree Certificate — Elias El Haddad](examensbevis-elias-el-haddad-185071-4494.pdf)
 
 ## Let’s connect
 
